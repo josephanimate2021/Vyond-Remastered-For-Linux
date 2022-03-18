@@ -1,7 +1,7 @@
 # Vyond Remastered Launcher
 # Launcher Creator Is joseph the animator hashtag 2292
 # Project Runner is Davids Creation hashtag 2007
-if exist vyond-remastered-public-main
+if -c vyond-remastered-public-main
 then
 echo Looks like you have Vyond Remastered. Starting....
 cd vyond-remastered-public-main/wrapper
