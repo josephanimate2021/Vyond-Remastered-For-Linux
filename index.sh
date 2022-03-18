@@ -14,4 +14,3 @@ unlink main.zip
 echo Vyond Remastered is installed. Starting.... 
 cd vyond-remastered-public-main/wrapper 
 npm start
-fi
