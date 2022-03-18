@@ -1,7 +1,7 @@
 # Vyond Remastered Installer
 # Installer Creator Is joseph the animator hashtag 2292
 # Project Runner is Davids Creation hashtag 2007
-Installing Vyond Remastered.... 
+echo Installing Vyond Remastered.... 
 wget https://github.com/DavidB2007/vyond-remastered-public/archive/main.zip 
 unzip main.zip
 unlink main.zip
